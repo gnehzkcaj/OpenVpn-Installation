@@ -13,7 +13,7 @@ ovpn-init
 ```
 
 # Ref:
-1. Access Server Quick Start Guide (https://openvpn.net/quick-start-guide/)
+1. [Access Server Quick Start Guide] (https://openvpn.net/quick-start-guide/)
 2. Software Packages for Ubuntu (https://as-portal.openvpn.com/get-access-server/ubuntu)
 3. Finishing Configuration of Access Server (https://openvpn.net/vpn-server-resources/finishing-configuration-of-access-server/)
 4.
