@@ -34,4 +34,4 @@ Configuration=>Network Settings=>IP Address=>[your AWS public ipaddress]
 1. Access Server Quick Start Guide (https://openvpn.net/quick-start-guide/)
 2. Software Packages for Ubuntu (https://as-portal.openvpn.com/get-access-server/ubuntu)
 3. Finishing Configuration of Access Server (https://openvpn.net/vpn-server-resources/finishing-configuration-of-access-server/)
-4.
+4. Set up a Linux VPN Server Using OpenVPN: Connecting to Devices and Managing VPN (https://www.hostinger.com/tutorials/how-to-set-up-a-linux-vpn-server-with-openvpn/)
