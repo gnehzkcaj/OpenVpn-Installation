@@ -35,3 +35,4 @@ Configuration=>Network Settings=>IP Address=>[your AWS public ipaddress]
 2. Software Packages for Ubuntu (https://as-portal.openvpn.com/get-access-server/ubuntu)
 3. Finishing Configuration of Access Server (https://openvpn.net/vpn-server-resources/finishing-configuration-of-access-server/)
 4. Set up a Linux VPN Server Using OpenVPN: Connecting to Devices and Managing VPN (https://www.hostinger.com/tutorials/how-to-set-up-a-linux-vpn-server-with-openvpn/)
+5. How do I install an SSL certificate for my website on my EC2 Linux Ubuntu instance? (https://repost.aws/knowledge-center/ec2-linux-ubuntu-install-ssl-cert)
