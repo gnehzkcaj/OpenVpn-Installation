@@ -26,7 +26,7 @@ ovpn-init --force
 
 # Step 3:
 
-Set up in browser: https://[your AWS public ipaddress]/admin
+Set up in browser: https://[your AWS public ipaddress]:943/admin
 Configuration=>Network Settings=>IP Address=>[your AWS public ipaddress]
 
 
