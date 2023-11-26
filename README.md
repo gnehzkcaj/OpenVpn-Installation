@@ -30,7 +30,8 @@ Set up in browser: https://[your AWS public ipaddress]:943/admin
 Configuration=>Network Settings=>IP Address=>[your AWS public ipaddress]
 
 # Step 4:
-Update -> CONFIGURATION -> Network Settings -> Hostname or IP Address: ( To AWS public address )
+Update -> CONFIGURATION -> Network Settings -> Hostname or IP Address: (Change to AWS public address)
+
 DOWNLOAD User Profiles from USER MANAGEMENT
 
 # Ref:
