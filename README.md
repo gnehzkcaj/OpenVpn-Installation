@@ -1,6 +1,13 @@
 # OpenVpn-Installation
 Latest installation Guide in AWS Ubuntu
 
+To determine operating system:
+```
+cat /etc/issue
+lsb_release -a
+uname -a
+```
+
 # Step 1:
 Launch AWS Ubuntu EC2. Inbound rules allow port 22, 443, 943, 1143, 1194 by Openvpn default.
 Port for VPN client connections: tcp/443, udp/1194 
