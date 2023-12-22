@@ -41,6 +41,13 @@ Update -> CONFIGURATION -> Network Settings -> Hostname or IP Address: (Change t
 
 DOWNLOAD User Profiles from USER MANAGEMENT
 
+# Step 5 upgrade when new version available:
+
+```
+sudo apt update
+sudo apt upgrade
+```
+
 # Ref:
 1. Access Server Quick Start Guide (https://openvpn.net/quick-start-guide/)
 2. Software Packages for Ubuntu (https://as-portal.openvpn.com/get-access-server/ubuntu)
