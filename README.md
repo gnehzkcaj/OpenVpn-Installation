@@ -23,12 +23,14 @@ systemctl status openvpnas.service
 ovpn-init --force
   =>agreement=>yes
   =>primary access server=>yes
-  =>(2) ip address Admin Web UI, choose default
+  =>ip address used by the Admin Web UI, choose default
   =>rsa
   =>2048
   =>port for Web UI 943 
   =>443
+  =>should client traffic be routed by default through the VPN? choose default [yes]
   =>Activation Key leave blank
+all others leave as default
 ```
 
 # Step 3:
